@@ -1,0 +1,8 @@
+# Requirements for the Number Guessing Game
+# 
+# This app only uses Python's built-in modules:
+# - random (for generating random numbers)
+# - sys (for system operations like exit)
+# 
+# No external packages required!
+# Python 3.6+ is recommended for f-string support.
